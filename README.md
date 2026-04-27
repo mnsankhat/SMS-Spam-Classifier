@@ -58,5 +58,5 @@ A Machine Learning + NLP based web application that classifies SMS/Email message
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/mnsankhat/SMS-Spam-Classifier
+git clone https://github.com/maheshsankhat/SMS-Spam-Classifier
 cd spam-detection

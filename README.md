@@ -37,3 +37,26 @@ A Machine Learning + NLP based web application that classifies SMS/Email message
 ---
 
 ## 📂 Project Structure
+
+
+---
+
+## ⚙️ How It Works
+
+1. User enters a message
+2. Text is preprocessed:
+   - Remove punctuation & stopwords
+   - Apply stemming
+3. Convert text into numerical form using vectorizer
+4. Model predicts:
+   - Spam ✅
+   - Not Spam ❌
+
+---
+
+## ▶️ Run Locally
+
+### 1. Clone Repository
+```bash
+git clone https://github.com/mnsankhat/SMS-Spam-Classifier
+cd spam-detection
